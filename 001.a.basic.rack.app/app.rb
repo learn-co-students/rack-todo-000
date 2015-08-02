@@ -1,4 +1,4 @@
-# Let's get some superweb powers.
+gem# Let's get some superweb powers.
 
 # Make sure to gem install rack first.
 require 'rack'
